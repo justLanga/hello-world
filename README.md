@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Langa here, I like Python and Angular.
+Learning how to use Github repos.
